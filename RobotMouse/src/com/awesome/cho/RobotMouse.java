@@ -130,8 +130,8 @@ public class RobotMouse extends JFrame
 		
 		for (int x = 0; x < loopCount; x++)
 		{
-			end_x = rand.nextInt(1000);
-			end_y = rand.nextInt(1000);
+			end_x = rand.nextInt(900);
+			end_y = rand.nextInt(900);
 			
 			for (int i=0; i<100; i++)
 			{
